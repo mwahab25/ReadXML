@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <File_No>1</File_No>
+    <Customer_Name>ﺎﺿﺭ ﺪﻤﺤﻣ</Customer_Name>
+    <Address>ﺝﺮﻤﻟﺍ</Address>
+    <Area_No>1001</Area_No>
+    <Bill_Date>12-2-2008</Bill_Date>
+    <Bill_Qunt>3900</Bill_Qunt>
+  </Table1>
+  <Table1>
+    <File_No>2</File_No>
+    <Customer_Name>ﺪﻴﺴﻟﺍ ﺀﺎﻬﺑ</Customer_Name>
+    <Address>ﻪﻳﺮﻄﻤﻟﺍ</Address>
+    <Area_No>1001</Area_No>
+    <Bill_Date>5-9-2008</Bill_Date>
+    <Bill_Qunt>123</Bill_Qunt>
+    <Cur_State>1</Cur_State>
+  </Table1>
+  <Table1>
+    <File_No>3</File_No>
+    <Customer_Name>ﻰﻣﺎﺳ</Customer_Name>
+    <Address> ﺔﻫﺰﻨﻟﺍ10 </Address>
+    <Area_No>1001</Area_No>
+    <Bill_Date>1-1-2009</Bill_Date>
+    <Bill_Qunt>4589</Bill_Qunt>
+  </Table1>
+</NewDataSet>

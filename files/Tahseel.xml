@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <File_No>12345674</File_No>
+    <Customer_Name>محمد عبدالوهاب</Customer_Name>
+    <Address>الدقي</Address>
+    <Path_Seq>123</Path_Seq>
+    <Activity_Type>تجارة</Activity_Type>
+    <Area_No>1001</Area_No>
+    <Meter_Status>سليم</Meter_Status>
+    <Cur_Read>30000</Cur_Read>
+  </Table1>
+  <Table1>
+    <File_No>12045678</File_No>
+    <Customer_Name>بهاء السيد</Customer_Name>
+    <Address>6 شارع المساحة</Address>
+    <Path_Seq>165</Path_Seq>
+    <Activity_Type>منازل</Activity_Type>
+    <Area_No>1002</Area_No>
+    <Meter_Status>معطل</Meter_Status>
+    <Cur_Read>3000</Cur_Read>
+  </Table1>
+  <Table1>
+    <File_No>3</File_No>
+    <Customer_Name>سامي سيد</Customer_Name>
+    <Address>20 شارع النزهة</Address>
+    <Path_Seq>9876</Path_Seq>
+    <Activity_Type>مول</Activity_Type>
+    <Area_No>1004</Area_No>
+    <Meter_Status>عقار</Meter_Status>
+    <Cur_Read>3333</Cur_Read>
+  </Table1>
+</NewDataSet>

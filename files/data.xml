@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <branch_code>1</branch_code>
+    <branch_name>nasr city</branch_name>
+    <floor_code>1</floor_code>
+    <floor_name>ground</floor_name>
+    <room_code>1</room_code>
+    <room_name>room1</room_name>
+    <place_code>1</place_code>
+    <place_name>office1</place_name>
+  </Table>
+  <Table>
+    <branch_code>1</branch_code>
+    <branch_name>nasr city</branch_name>
+    <floor_code>1</floor_code>
+    <floor_name>ground</floor_name>
+    <room_code>1</room_code>
+    <room_name>room1</room_name>
+    <place_code>2</place_code>
+    <place_name>office2</place_name>
+  </Table>
+  <Table>
+    <branch_code>2</branch_code>
+    <branch_name>maady</branch_name>
+    <floor_code>2</floor_code>
+    <floor_name>first floor</floor_name>
+    <room_code>1</room_code>
+    <room_name>stock</room_name>
+    <place_code>1</place_code>
+    <place_name>store1</place_name>
+  </Table>
+</NewDataSet>
